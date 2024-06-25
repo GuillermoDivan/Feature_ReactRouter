@@ -10,5 +10,4 @@ Crea un React Router desde cero
  [X] Componente para hacerlo declarativo
  [X] Lazy Loading de las rutas
  [X] Hacer un i18n con las rutas
- [] Testing
- [] Publicar el paquete en NPM
+ [X] Testing
